@@ -1,0 +1,62 @@
+[
+	{
+		"Name": "Alex",
+		"Condition": "Peanut Allergy",
+		"Medications": "Epinephrine Autoinjector",
+		"Appointments": "2/15",
+        "Insurance": "USAA",
+        "Address": "520 N Main St, Box 1, Meadville PA",
+		"Phone Number": "1234567891011",
+		"Sharing Settings": "True",
+		"Authorized Family Members": "Jordan Byrne",
+		"Sharing Code": 1234
+	},
+    {
+		"Name": "John",
+		"Condition": "Dust Mite Allergy",
+		"Medications": "fexofenadine",
+		"Appointments": "2/11",
+        "Insurance": "Liberty Mutual",
+        "Address": "520 N Main St, Box 2, Meadville PA",
+		"Phone Number": "1234567891011",
+		"Sharing Settings": "True",
+		"Authorized Family Members": "Jordan Byrne",
+		"Sharing Code": 1234
+	},
+    {
+		"Name": "Jordan",
+		"Condition": "Pollen Allergy",
+		"Medications": "fexofenadine",
+		"Appointments": "2/10",
+        "Insurance": "USAA",
+        "Address": "520 N Main St, Box 3, Meadville PA",
+		"Phone Number": "1234567891011",
+		"Sharing Settings": "True",
+		"Authorized Family Members": "Jordan Byrne",
+		"Sharing Code": 1234
+	},
+    {
+		"Name": "Abigail",
+		"Condition": "Tree Nut Allergy",
+		"Medications": "Epinephrine Autoinjector",
+		"Appointments": "2/18",
+        "Insurance": "Liberty Mutual",
+        "Address": "520 N Main St, Box 4, Meadville PA",
+		"Phone Number": "1234567891011",
+		"Sharing Settings": "True",
+		"Authorized Family Members": "Jordan Byrne",
+		"Sharing Code": 1234
+	},
+    {
+		"Name": "Ashley",
+		"Condition": "Latex Allergy",
+		"Medications": "Epinephrine Autoinjector",
+		"Appointments": "2/20",
+        "Insurance": "USAA",
+        "Address": "520 N Main St, Box 5, Meadville PA",
+		"Phone Number": "1234567891011",
+		"Sharing Settings": "True",
+		"Authorized Family Members": "Jordan Byrne",
+		"Sharing Code": 1234
+	}
+]

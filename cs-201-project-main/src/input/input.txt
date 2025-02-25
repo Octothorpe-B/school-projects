@@ -1,0 +1,6 @@
+~ Function to illustrate programming language functionality!
+FUNCTION FIRSTFUNCTION
+IF (C == 4)
+INT B = 2
+ELSE
+INT B = 4 * 8 + 6

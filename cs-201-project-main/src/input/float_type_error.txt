@@ -1,0 +1,6 @@
+~ File to illustrate how the developed language detects float values and reports the error.
+FUNCTION FLOATFUNCTION()
+    INT A = 2
+    INT B = 4
+    FOR (INT J = 3.33 I < 7 I++)
+        INT C = A + B

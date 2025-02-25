@@ -1,0 +1,7 @@
+~ File to illustrate how the developed language recognizes string values and reports the error.
+FUNCTION FIRSTFUNCTION()
+FOR (INT I = 0 I < 5 I++)
+    IF I = 2
+        INT A = "APPLE"
+    ELIF I = 4
+        INT B = 4
